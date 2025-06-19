@@ -58,8 +58,4 @@ car_game_/
     └── ...
 ```
 
-## Credits
 
-- Developed by AKD
-- Built with Pygame (https://www.pygame.org)
-- Font: Pixelify Sans
